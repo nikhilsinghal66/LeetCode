@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/nikhilsinghal66/LeetCode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/nikhilsinghal66/LeetCode/tree/master/0050-powx-n) |
 ## Matrix
 |  |
 | ------- |
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/nikhilsinghal66/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/nikhilsinghal66/LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
