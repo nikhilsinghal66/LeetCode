@@ -17,7 +17,7 @@ public:
             }
         }
         if(n<0){
-            return 1/ans;
+            return 1.0/ans;
         }
         return ans;
     }
