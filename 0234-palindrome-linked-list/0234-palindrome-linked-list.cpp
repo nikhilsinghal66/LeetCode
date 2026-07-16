@@ -23,13 +23,11 @@ public:
     }
 
     bool isPalindrome(ListNode* head) {
-        ListNode* prev=NULL;
         ListNode* curr=head;
         ListNode* slow=head;
         ListNode* fast=head;
         //slow and fast pointer...
         while(fast!=NULL && fast->next!=NULL){
-            prev=slow;
             slow=slow->next;
             fast=fast->next;
             fast=fast->next;
