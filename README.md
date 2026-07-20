@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/nikhilsinghal66/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/nikhilsinghal66/LeetCode/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/nikhilsinghal66/LeetCode/tree/master/0322-coin-change) |
+| [0785-is-graph-bipartite](https://github.com/nikhilsinghal66/LeetCode/tree/master/0785-is-graph-bipartite) |
 ## Greedy
 |  |
 | ------- |
@@ -210,10 +211,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/nikhilsinghal66/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/nikhilsinghal66/LeetCode/tree/master/0207-course-schedule) |
+| [0785-is-graph-bipartite](https://github.com/nikhilsinghal66/LeetCode/tree/master/0785-is-graph-bipartite) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/nikhilsinghal66/LeetCode/tree/master/0207-course-schedule) |
+| [0785-is-graph-bipartite](https://github.com/nikhilsinghal66/LeetCode/tree/master/0785-is-graph-bipartite) |
 ## Topological Sort
 |  |
 | ------- |
@@ -222,4 +225,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/nikhilsinghal66/LeetCode/tree/master/0200-number-of-islands) |
+| [0785-is-graph-bipartite](https://github.com/nikhilsinghal66/LeetCode/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
