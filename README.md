@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/nikhilsinghal66/LeetCode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/nikhilsinghal66/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/nikhilsinghal66/LeetCode/tree/master/0493-reverse-pairs) |
+| [1260-shift-2d-grid](https://github.com/nikhilsinghal66/LeetCode/tree/master/1260-shift-2d-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/nikhilsinghal66/LeetCode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/nikhilsinghal66/LeetCode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/nikhilsinghal66/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [1260-shift-2d-grid](https://github.com/nikhilsinghal66/LeetCode/tree/master/1260-shift-2d-grid) |
 ## Binary Search
 |  |
 | ------- |
@@ -189,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/nikhilsinghal66/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/nikhilsinghal66/LeetCode/tree/master/0046-permutations) |
 | [0090-subsets-ii](https://github.com/nikhilsinghal66/LeetCode/tree/master/0090-subsets-ii) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/nikhilsinghal66/LeetCode/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
