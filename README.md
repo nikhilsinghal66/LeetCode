@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/nikhilsinghal66/LeetCode/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nikhilsinghal66/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/nikhilsinghal66/LeetCode/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/nikhilsinghal66/LeetCode/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/nikhilsinghal66/LeetCode/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/nikhilsinghal66/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/nikhilsinghal66/LeetCode/tree/master/0322-coin-change) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/nikhilsinghal66/LeetCode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/nikhilsinghal66/LeetCode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/nikhilsinghal66/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/nikhilsinghal66/LeetCode/tree/master/0200-number-of-islands) |
 | [1260-shift-2d-grid](https://github.com/nikhilsinghal66/LeetCode/tree/master/1260-shift-2d-grid) |
 ## Binary Search
 |  |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/nikhilsinghal66/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/nikhilsinghal66/LeetCode/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/nikhilsinghal66/LeetCode/tree/master/0322-coin-change) |
 ## Greedy
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/nikhilsinghal66/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/nikhilsinghal66/LeetCode/tree/master/0207-course-schedule) |
 ## Graph Theory
 |  |
@@ -214,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/nikhilsinghal66/LeetCode/tree/master/0207-course-schedule) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/nikhilsinghal66/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
