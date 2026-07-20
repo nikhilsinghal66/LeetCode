@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/nikhilsinghal66/LeetCode/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/nikhilsinghal66/LeetCode/tree/master/0322-coin-change) |
 ## Greedy
 |  |
@@ -201,4 +202,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/nikhilsinghal66/LeetCode/tree/master/1260-shift-2d-grid) |
+## Depth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/nikhilsinghal66/LeetCode/tree/master/0207-course-schedule) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/nikhilsinghal66/LeetCode/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/nikhilsinghal66/LeetCode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
