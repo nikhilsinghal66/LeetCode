@@ -125,11 +125,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/nikhilsinghal66/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/nikhilsinghal66/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/nikhilsinghal66/LeetCode/tree/master/0229-majority-element-ii) |
+| [0299-bulls-and-cows](https://github.com/nikhilsinghal66/LeetCode/tree/master/0299-bulls-and-cows) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/nikhilsinghal66/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/nikhilsinghal66/LeetCode/tree/master/0229-majority-element-ii) |
+| [0299-bulls-and-cows](https://github.com/nikhilsinghal66/LeetCode/tree/master/0299-bulls-and-cows) |
 ## Combinatorics
 |  |
 | ------- |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nikhilsinghal66/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0299-bulls-and-cows](https://github.com/nikhilsinghal66/LeetCode/tree/master/0299-bulls-and-cows) |
 ## Sliding Window
 |  |
 | ------- |
