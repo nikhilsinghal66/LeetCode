@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nikhilsinghal66/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0299-bulls-and-cows](https://github.com/nikhilsinghal66/LeetCode/tree/master/0299-bulls-and-cows) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/nikhilsinghal66/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -231,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/nikhilsinghal66/LeetCode/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/nikhilsinghal66/LeetCode/tree/master/0785-is-graph-bipartite) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/nikhilsinghal66/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
