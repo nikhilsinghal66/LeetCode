@@ -24,6 +24,6 @@ public:
         if(n==1){
             return nums[0];
         }
-        return max(f(n-1,nums,dp),f(n-2,nums,dp));
+        return f(n-1,nums,dp);
     }
 };
