@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/nikhilsinghal66/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/nikhilsinghal66/LeetCode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/nikhilsinghal66/LeetCode/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/nikhilsinghal66/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nikhilsinghal66/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/nikhilsinghal66/LeetCode/tree/master/0322-coin-change) |
 ## Two Pointers
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/nikhilsinghal66/LeetCode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/nikhilsinghal66/LeetCode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/nikhilsinghal66/LeetCode/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/nikhilsinghal66/LeetCode/tree/master/0070-climbing-stairs) |
 ## Matrix
 |  |
 | ------- |
@@ -238,4 +240,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/nikhilsinghal66/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/nikhilsinghal66/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
